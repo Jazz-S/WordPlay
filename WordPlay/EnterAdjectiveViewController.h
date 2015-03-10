@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EnterAdjectiveViewController.h
 //  WordPlay
 //
 //  Created by Jazz Santiago on 3/10/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface EnterAdjectiveViewController : UIViewController
 
 @end
-
